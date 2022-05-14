@@ -1,20 +1,20 @@
 ### Hi there, I'm Luiz Fernando - aka [TreviIT][website] 🤟
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/nandovicentin?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=nandovicentin)
+[![Twitter Follow](https://img.shields.io/twitter/follow/luizferpava?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=luizferpava)
 
-### I'm a Developer, a Pythonist, a Linux Student (LPIC-1 in progress) from Brazil 🇧🇷
+### I'm a Software Developer, a Pythonist, a Linux Student (LPIC-1 in progress) from Brazil 🇧🇷
 
 - 🐧 I’m  currently studying to get the **LPIC-1 Certification [Linux Admnistrator]**
 - 🌱 I'm currently learning everything 🤣
-- 🕵️‍♂️ I’m  a **Python**, **Linux** & **Cybersecurity enthusiastic**
+- 🕵️‍♂️ I’m  a **JavaScript**, **Python**, **Linux** & **Cybersecurity enthusiastic**
 - 🥅 **2022 Goals**: LPI-1 Certification.
-- 🚴‍♂️ Fun fact: I love cycling, gym and to read...
+- 🚴‍♂️ Fun fact: I'm a LifeLongingLearning, love the gym and to read...
 
 ### Connect with me:
 
 [<img align="left" alt="luizpavanello.com/blog" width="23px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="nandovicentin | Twitter" width="23px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="nandovicentin | LinkedIn" width="23px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="luizferpava | Twitter" width="23px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="luizfernandopavanello | LinkedIn" width="23px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="nandovicentin | Dev" width="23px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" />][dev]
 [<img align="left" alt="nandovicentin | Instagram" width="23px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
@@ -45,7 +45,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fernandovicentinpavanello&label=Profile%20views&color=0e75b6&style=flat" alt="fernandovicentinpavanello" /> </p>
 
 [website]: https://www.luizpvanello.com/blog
-[twitter]: https://twitter.com/nandovicentin
-[linkedin]: https://www.linkedin.com/in/fernandovicentinpavanello/
+[twitter]: https://twitter.com/luizferpava
+[linkedin]: https://www.linkedin.com/in/luizfernandopavanello/
 [instagram]: https://instagram.com/luizfpavanello
 [dev]: https://dev.to/luizpavanello
