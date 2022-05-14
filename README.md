@@ -8,7 +8,7 @@
 - 🌱 I'm currently learning everything 🤣
 - 🕵️‍♂️ I’m  a **JavaScript**, **Python**, **Linux** & **Cybersecurity enthusiastic**
 - 🥅 **2022 Goals**: LPI-1 Certification.
-- 🚴‍♂️ Fun fact: I'm a LifeLongingLearning, love the gym and to read...
+- 🚴‍♂️ Fun fact: I'm a Lifelong learning, love to do exercises and to read...
 
 ### Connect with me:
 
