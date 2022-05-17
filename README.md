@@ -45,7 +45,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fernandovicentinpavanello&label=Profile%20views&color=0e75b6&style=flat" alt="fernandovicentinpavanello" /> </p>
 
-<!-- [website]: https://www.luizpvanello.com/blog  -->
+[website]: https://www.luizpvanello.com/blog 
 [twitter]: https://twitter.com/luizferpava
 [linkedin]: https://www.linkedin.com/in/luizfernandopavanello/
 [instagram]: https://instagram.com/luizfpavanello
