@@ -2,12 +2,12 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/nandovicentin?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=nandovicentin)
 
-### I'm a Software Developer, a Pythonist, a Linux Student (LPIC-1 in progress) from Brazil 🇧🇷
+### I'm a Software Developer, a Pythonist, a Linux enthusiastic, from Brazil 🇧🇷
 
 - 🐧 I’m  currently studying **Software Development Analyst [SDA]**
-- 🌱 I'm currently learning everything 🤣
-- 🕵️‍♂️ I’m  a **Python** developer, learning **Linux** & a **Cybersecurity enthusiastic**
-- 🥅 **2023 Goals**: LPI-1 Certification.
+- 🌱 I'm currently learning Machine Learning...
+- 🕵️‍♂️ I’m  a **Python** developer, learning **Linux** & a **Data Sciense enthusiastic**
+- 🥅 **2023 Goals**: Be a Data Scientist.
 - 🚴‍♂️ Fun fact: I'm a Lifelong learning, love to go to the gym (__therapy__), and coffee ☕☕☕...
 
 ### Connect with me:
@@ -16,7 +16,7 @@
 [<img align="left" alt="nandovicentin | Twitter" width="23px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="luizfernandopavanello | LinkedIn" width="23px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="nandovicentin | Dev" width="23px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" />][dev]
-[<img align="left" alt="nandovicentin | Instagram" width="23px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="lfpavanello | Instagram" width="23px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -36,15 +36,15 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  ![Fernando Vicentin Pavanello's GitHub stats](https://github-readme-stats.vercel.app/api?username=fernandovicentinpavanello&show_icons=true&theme=blue-green)
+  ![Luiz Fernando Pavanello's GitHub stats](https://github-readme-stats.vercel.app/api?username=luizfernandopavanello&show_icons=true&theme=blue-green)
   
 </details>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fernandovicentinpavanello&label=Profile%20views&color=0e75b6&style=flat" alt="fernandovicentinpavanello" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=luizfernandopavanello&label=Profile%20views&color=0e75b6&style=flat" alt="luizfernandopavanello" /> </p>
 
 [website]: https://www.luizpvanello.com/blog 
 [twitter]: https://twitter.com/nandovicentin
 [linkedin]: https://www.linkedin.com/in/luizfernandopavanello/
-[instagram]: https://instagram.com/nandovicentin
+[instagram]: https://instagram.com/lfpavanello
 [dev]: https://dev.to/luizpavanello
